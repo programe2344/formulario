@@ -1,4 +1,3 @@
-<style>
         .button-container {
         display: flex !important;
         justify-content: center !important;
@@ -288,5 +287,4 @@
 
     .custom-popup .hidden {
         display: none !important;
-    }
-    </style>
+    }>
